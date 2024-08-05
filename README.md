@@ -1,8 +1,9 @@
 # CY-BUG
    ## Konnichiwa 🤖
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">ꪶCY-BUGꫂ<br></h1>
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 CY-BUG 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Anime-King01" target="_blank">Lord No Name</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
@@ -20,21 +21,23 @@ CY-BUG 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://g
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Anime-King01%2FBLACK CY-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Anime-King01/CY-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit or render. 
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### 1. <a href="https://github.com/Anime-King01/CY-BUG/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## `Generate Pair Code For Session`
- 
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 [`CY-BUG Pairing Using Replit`](https://replit.com/@animexzone01/CY-BUG-Session-Generator)
 
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="120"></a>
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Instalasi
 ## Heroku Buildpack
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 ```bash
 heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
@@ -48,10 +51,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
-  
+src='https://i.imgur.com/LyHic3i.gif'/></a>  
 ### 4. 
 #### DEPLOY TO RENDER
-
+src='https://i.imgur.com/LyHic3i.gif'/></a>
  ★ Register To Render 
     <br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
@@ -66,6 +69,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Termux Deployment
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 ```
 termux-setup-storage
 ```
@@ -149,11 +153,12 @@ npm i -g forever && forever index.js && forever save && forever logs
 <a href="https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    
 <a href='https://chat.whatsapp.com/BA2rpI3Bo2S21YKsJOODE3' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-
-## 🎯 Authors 🎯
+src='https://i.imgur.com/LyHic3i.gif'/></a>
+## 🎯 Author 🎯
+src='https://i.imgur.com/LyHic3i.gif'/></a>
   <div align="center">
   
-| [![Lord No Name](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+| [![Lord No Name](https://github.com/Anime-King01.png?size=250)](https://github.com/Anime-King01) |
 |----|
 | [  Lord No Name](https://github.com/Anime-King01) |
 |  Developer |
