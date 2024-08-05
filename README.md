@@ -49,7 +49,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Start the Worker
 * Enjoy the Bot.
   
-### 4. <a 
+### 4. 
 #### DEPLOY TO RENDER
 
  ★ Register To Render 
@@ -153,9 +153,9 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## 🎯 Authors 🎯
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/BADBOI-v1.png?size=150)](https://github.com/Anime-King01) |
+| [![Lord No Name](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
 |----|
-| [  Badboi Hacker](https://github.com/Anime-King01) |
+| [  Lord No Name](https://github.com/Anime-King01) |
 |  Developer |
 
   </div>
