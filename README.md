@@ -14,7 +14,7 @@ CY-BUG 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://g
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____CY+BUG_____;WHATSAPP+CRASH+BUG+BOT;DEVELOPED+BY+Lord+No+Name;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
 </p>
-### ```Bot Info```
+```Bot Info```
 <p align="center">
 <a href="https://github.com/Anime-King01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Anime-King01?color=red&style=flat-square"></a>
 <a href="https://github.com/Anime-King01/CY-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Anime-King01/CY-BUG?color=blue&style=flat-square"></a>
